@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#botoes{
+    margin: auto;
+    margin-top: 100px;
+    width: 400px;
+    height: 100px;
+}
+button{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0)
+}
+#lampada{
+    width: 100vh;
+    margin: auto;
+}
